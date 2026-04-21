@@ -15,7 +15,6 @@ I am an electrical engineering Master's student specializing in VLSI, digital de
 - **Software & Scripting:** C, C++, Python, Bash, Tcl, Git
 - **EDA Tools:** Cadence Virtuoso, Xlinix Vivado
 - **Protocols:** AMBA APB/AHB/AXI, I2C, SPI, UART, CAN, Ethernet
-- **Lab Equipment:** Oscilloscopes, Function Generators, Digital Multimeters, Logic Analyzers
 
 ## Projects
 

@@ -19,13 +19,13 @@ I am an electrical engineering Master's student specializing in VLSI, digital de
 ## Projects
 
 ### Design Verification
-- Coming soon!
+- [UVM Testbench for ALU](https://github.com/niumuzhi2004/alu-uvc)
 
 ### VLSI / Digital Design
 - Coming soon!
 
 ### FPGA Design
-- Coming soon!
+- [Multi-Camera Module for Image Refocusing](https://github.com/niumuzhi2004/refocus_cam)
 
 ### Miscellaneous
 - Coming soon!

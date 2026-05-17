@@ -27,8 +27,8 @@ I am an electrical engineering Master's student specializing in VLSI, digital de
 ### FPGA Design
 - [Multi-Camera Module for Image Refocusing](https://github.com/niumuzhi2004/refocus_cam)
 
-### Miscellaneous
-- Coming soon!
+### Embedded Systems
+- [A Nailoong Interactive Widget on Waveshare ESP32-S3-Touch-LCD-1.46](https://github.com/niumuzhi2004/nailoong-widget)
 
 ## Socials
 

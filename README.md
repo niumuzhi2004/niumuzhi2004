@@ -19,16 +19,17 @@ I am an electrical engineering Master's student specializing in VLSI, digital de
 ## Projects
 
 ### Design Verification
-- [UVM Testbench for ALU](https://github.com/niumuzhi2004/alu-uvc)
+- [UVM Testbench for ALU (In Progress)](https://github.com/niumuzhi2004/alu-uvc)
 
 ### VLSI / Digital Design
 - Coming soon!
 
 ### FPGA Design
-- [Multi-Camera Module for Image Refocusing](https://github.com/niumuzhi2004/refocus_cam)
+- [Multi-Camera Module for Image Refocusing (In Progress)](https://github.com/niumuzhi2004/refocus_cam)
+- [Real-Time 13-Band Audio Equalizer on FPGA](https://github.com/niumuzhi2004/fpga-audio-eq)
 
 ### Embedded Systems
-- [A Nailoong Interactive Widget on Waveshare ESP32-S3-Touch-LCD-1.46](https://github.com/niumuzhi2004/nailoong-widget)
+- [A Nailoong Interactive Widget on Waveshare ESP32-S3-Touch-LCD-1.46 (In Progress)](https://github.com/niumuzhi2004/nailoong-widget)
 
 ## Socials
 

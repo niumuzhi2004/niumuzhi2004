@@ -19,7 +19,7 @@ I am an electrical engineering Master's student specializing in VLSI, digital de
 ## Projects
 
 ### Design Verification
-- [UVM Testbench for ALU (In Progress)](https://github.com/niumuzhi2004/alu-uvc)
+- [UVM Testbench for ALU](https://github.com/niumuzhi2004/alu-uvc)
 
 ### VLSI / Digital Design
 - Coming soon!

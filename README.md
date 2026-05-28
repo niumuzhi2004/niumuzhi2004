@@ -20,6 +20,7 @@ I am an electrical engineering Master's student specializing in VLSI, digital de
 
 ### Design Verification
 - [UVM Testbench for ALU](https://github.com/niumuzhi2004/alu-uvc)
+- [UVM Testbench for Synchronous FIFO (In Progress)](https://github.com/niumuzhi2004/sync-fifo-uvc)
 
 ### VLSI / Digital Design
 - Coming soon!

@@ -3,18 +3,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am an electrical engineering Master's student specializing in VLSI, digital design, verification, and FPGA.
 
-* 🌍  I'm based in St. Louis, Missouri
-* ✉️  You can contact me at [daniel.n@wustl.edu](mailto:daniel.n@wustl.edu)
-* 🚀  I'm currently working on [a 9-camera refocusing hardware module](http://sites.wustl.edu/iphonebasedimagerefocusing/)
-* 🧠  I'm currently learning Universal Verification Methodology (UVM)
+* 🌍  I'm based in Los Angeles, California
+* ✉️  You can contact me at [danielni@usc.edu](mailto:danielni@usc.edu)
+* 🚀  I'm currently working on [verifying an AXI4-Lite to APB bridge](https://github.com/niumuzhi2004/axi4-lite-apb-bridge-uvc)
 * 👥  I'm looking to collaborate on interesting projects on hardware design
 
 ## Skills
 
 - **Hardware & Verification:** SystemVerilog, Verilog, UVM, SystemVerilog Assertions (SVA)
-- **Software & Scripting:** C, C++, Python, Bash, Tcl, Git
-- **EDA Tools:** Cadence Virtuoso, Xlinix Vivado
-- **Protocols:** AMBA APB/AHB/AXI, I2C, SPI, UART, CAN, Ethernet
+- **Software & Scripting:** C, C++, Python, Tcl, Git
+- **EDA Tools:** QuestaSim, Cadence Virtuoso, Xilinx Vivado (xsim)
+- **Protocols:** AMBA AXI/AXI4-Lite/APB, SPI
 
 ## Projects
 
